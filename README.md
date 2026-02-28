@@ -4,22 +4,22 @@ This repository contains an analysis of the relationship between standardized ne
 
 ## Files
 
-- 'analysis/'
-   - '_metadata.yml'
-   - 'analysis.qmd' — primary Quarto/RMarkdown analysis notebook (EDA, model estimation, figures, and tables)
+- analysis/
+   - _metadata.yml
+   - analysis.qmd — primary Quarto/RMarkdown analysis notebook (EDA, model estimation, figures, and tables)
 - data/
-    'data_constructed/'
-        'analytical_data.RData' — cleaned, analysis-ready dataset
-    data_raw/
-        'world_bank_data.csv' — raw World Bank downloads      
+   - data_constructed/
+       - analytical_data.RData — cleaned, analysis-ready dataset
+   - data_raw/
+       - world_bank_data.csv — raw World Bank downloads      
 - utils/
-    'check_packages.R' — helper that installs/loads required packages
-    'functions.R' — project-specific helper functions
-    'remove_artifacts.ts' — utility for cleaning (optional)  
-- 'migration-birthrate-analysis.Rproj' — RStudio project file
-- 'final_paper.pdf' — final report
-- 'LICENSE' — license file for repository
-- 'README.md' — this file
+   - check_packages.R — helper that installs/loads required packages
+   - functions.R — project-specific helper functions
+   - remove_artifacts.ts — utility for cleaning
+- migration-birthrate-analysis.Rproj — RStudio project file
+- final_paper.pdf — final report
+- LICENSE — license file for repository
+- README.md — this file
 
 ## Project Overview
 
