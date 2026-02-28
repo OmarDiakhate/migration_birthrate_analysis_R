@@ -15,7 +15,6 @@ This repository contains an analysis of the relationship between standardized ne
 - utils/
    - check_packages.R — helper that installs/loads required packages
    - functions.R — project-specific helper functions
-   - remove_artifacts.ts — utility for cleaning
 - migration-birthrate-analysis.Rproj — RStudio project file
 - final_paper.pdf — final report
 - LICENSE — license file for repository
