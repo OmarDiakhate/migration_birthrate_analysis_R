@@ -22,9 +22,9 @@ This repository contains an analysis of the relationship between standardized ne
 
 ## Project Overview
 
-**Dataset**: Country-year panel drawn from the World Bank: standardized net migration (z-score), total fertility rate (TFR), GDP (2015 USD), female employment ratio, urban population percent, and other covariates.
-**Objective**: Assess how standardized net migration relates to fertility across countries and time, comparing linear, quadratic, and log-quadratic specifications and controlling for socioeconomic variables.
-**Audience**: Policy makers/analysts, demographic researchers, and the general public.
+- **Dataset**: Country-year panel drawn from the World Bank: standardized net migration (z-score), total fertility rate (TFR), GDP (2015 USD), female employment ratio, urban population percent, and other covariates.
+- **Objective**: Assess how standardized net migration relates to fertility across countries and time, comparing linear, quadratic, and log-quadratic specifications and controlling for socioeconomic variables.
+- **Audience**: Policy makers/analysts, demographic researchers, and the general public.
 
 ## Techniques & Tools
 
