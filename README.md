@@ -5,8 +5,8 @@ This repository contains an analysis of the relationship between standardized ne
 ## Files
 
 - 'analysis/'
-    '_metadata.yml'
-    'analysis.qmd' — primary Quarto/RMarkdown analysis notebook (EDA, model estimation, figures, and tables)
+   - '_metadata.yml'
+   - 'analysis.qmd' — primary Quarto/RMarkdown analysis notebook (EDA, model estimation, figures, and tables)
 - data/
     'data_constructed/'
         'analytical_data.RData' — cleaned, analysis-ready dataset
